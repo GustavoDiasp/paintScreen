@@ -16,7 +16,7 @@ The objective was to create a Simple Graphics Library canvas able to save its dr
 
 
 ----
-## Draw anything you want
+## Draw anything you want!
 ![drawImage](assets/drawImage.png)
 
 ## Save
